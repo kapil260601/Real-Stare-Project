@@ -1,0 +1,414 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.first {
+  background-image: url(Images/first.jpg);
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+.first1 {
+  color: rgba(255, 255, 255, 0.829);
+  font-family: sans-serif;
+  margin-left: 180px;
+  font-size: medium;
+  padding-top: 150px;
+}
+.first11 {
+  box-sizing: border-box;
+  font-size: 90px;
+  padding-left: 900px;
+}
+.first12 {
+  box-sizing: border-box;
+  font-size: 100px;
+  padding-left: 770px;
+}
+.first13 {
+  box-sizing: border-box;
+  font-size: 103px;
+  padding-left: 705px;
+}
+.first14 {
+  box-sizing: border-box;
+  font-size: 19px;
+  padding-left: 540px;
+  padding-top: 5px;
+}
+.first15 {
+  padding-left: 1030px;
+  padding-top: 5px;
+  font-size: 19px;
+}
+.two {
+  background-color: rgba(10, 124, 10, 0.609);
+  width: 100%;
+  height: 60%;
+}
+.two1 {
+  display: flex;
+  margin-left: 95px;
+  padding-top: 55px;
+}
+.three {
+  margin-top: 50px;
+}
+.three1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgba(10, 124, 10, 0.609);
+  box-sizing: border-box;
+  padding-top: 50px;
+}
+.three11 {
+  display: flex;
+  margin-left: 50px;
+}
+.three111 {
+  box-sizing: border-box;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+.three222 {
+  background-color: #2e3329;
+  width: 600px;
+  height: 550px;
+  color: #c19431;
+  box-sizing: border-box;
+  margin-top: 50px;
+  padding: 60px;
+}
+div a {
+  color: #c19431;
+  font-size: 22px;
+}
+.three2 {
+  font-size: 60px;
+  text-align: center;
+  color: #34421e;
+  box-sizing: border-box;
+  padding-top: 100px;
+}
+.three21 {
+  text-align: center;
+  font-size: 22px;
+  padding-top: 15px;
+  font-family: sans-serif;
+}
+.four {
+  background-color: #c19434;
+  margin-top: 100px;
+  height: 100%;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.four1 {
+  display: flex;
+  margin-left: 70px;
+}
+.four11 {
+  background-color: #ffffff;
+  width: 600px;
+  height: 550px;
+  color: black;
+  box-sizing: border-box;
+  margin-top: 50px;
+  padding: 60px;
+}
+div div a {
+  color: black;
+  font-size: normal;
+}
+.four12 {
+  width: 600px;
+  height: 550px;
+  margin-top: 50px;
+}
+.four111 {
+  display: flex;
+}
+.four222 {
+  display: flex;
+}
+.six {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 50%;
+}
+.six1 {
+  box-sizing: border-box;
+  padding-top: 80px;
+  padding-left: 150px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.seven {
+  background-color: white;
+  width: 100%;
+  height: 85%;
+}
+.seven1 {
+  display: flex;
+}
+div a {
+  text-decoration: none;
+}
+.seven11 {
+  box-sizing: border-box;
+  padding-top: 150px;
+  padding-left: 130px;
+}
+.seven12 {
+  box-sizing: border-box;
+  padding-top: 80px;
+  padding-left: 120px;
+}
+.nine {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+.nine1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgba(10, 124, 10, 0.609);
+  box-sizing: border-box;
+  padding-top: 50px;
+}
+.nine2 {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+.nine22 {
+  background-color: #2e3329;
+  width: 600px;
+  height: 550px;
+  color: #c19431;
+  box-sizing: border-box;
+  padding: 60px;
+}
+.ten {
+  background-color: #f2f6f1;
+  width: 100%;
+  height: 50%;
+  margin-top: 200px;
+}
+.learn {
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+  background-color: #f2f6f1;
+}
+.eleven {
+  background-color: #34421e;
+  width: 100%;
+  height: 50%;
+}
+@media (min-device-width: 320px) and (max-device-width: 480px) {
+  .first {
+    background-image: url(Images/first.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+  }
+  .first1 {
+    color: rgba(255, 255, 255, 0.829);
+    font-family: sans-serif;
+    margin-left: 100px;
+    font-size: medium;
+    padding-top: 700px;
+  }
+  .first11 {
+    box-sizing: border-box;
+    font-size: 130px;
+    padding-left: 10px;
+  }
+  .first12 {
+    box-sizing: border-box;
+    font-size: 130px;
+    padding-left: 10px;
+  }
+  .first13 {
+    box-sizing: border-box;
+    font-size: 130px;
+    padding-left: 10px;
+  }
+  .first14 {
+    box-sizing: border-box;
+    font-size: 49px;
+    padding-left: 10px;
+    padding-top: 15px;
+  }
+  .first15 {
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 49px;
+  }
+  .two {
+    background-color: rgba(10, 124, 10, 0.609);
+    width: 100%;
+    height: 100%;
+  }
+  .two1 {
+    display: block;
+    margin-left: 95px;
+    padding-top: 40px;
+  }
+  .three {
+    margin-top: 50px;
+  }
+  .three1 {
+    font-size: 100px;
+    text-align: center;
+    color: rgba(10, 124, 10, 0.609);
+    box-sizing: border-box;
+    padding-top: 50px;
+  }
+  .three11 {
+    display: block;
+    margin-left: 80px;
+  }
+  .three111 {
+    box-sizing: border-box;
+    padding-top: 50px;
+    margin-left: 10px;
+  }
+  .three222 {
+    background-color: #2e3329;
+    width: 800px;
+    height: 900px;
+    color: #c19431;
+    box-sizing: border-box;
+    margin-top: 0px;
+    padding: 60px;
+    margin-left: 10px;
+  }
+  div a {
+    color: #c19431;
+    font-size: 22px;
+  }
+  .three2 {
+    font-size: 100px;
+    text-align: center;
+    color: #34421e;
+    box-sizing: border-box;
+    padding-top: 100px;
+  }
+  .three21 {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 0px;
+    font-family: sans-serif;
+    padding: 100px;
+  }
+  .four {
+    background-color: #c19434;
+    margin-top: 100px;
+    width: 100%;
+    height: 230%;
+    padding-top: 1px;
+  }
+  .four1 {
+    display: block;
+    margin-left: 140px;
+  }
+  .four11 {
+    background-color: #ffffff;
+    width: 700px;
+    height: 930px;
+    color: black;
+    box-sizing: border-box;
+    margin-top: 110px;
+    padding: 30px;
+  }
+  div div a {
+    color: black;
+    font-size: 42px;
+  }
+  .four12 {
+    width: 600px;
+    height: 550px;
+    margin-top: 0px;
+  }
+  .four111 {
+    display: block;
+  }
+  .four222 {
+    display: block;
+  }
+  .six {
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 47%;
+  }
+  .six1 {
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 150px;
+    font-size: 50px;
+    font-family: sans-serif;
+  }
+
+  .seven {
+    background-color: white;
+    width: 100%;
+    height: 85%;
+  }
+  .seven1 {
+    display: block;
+  }
+  div a {
+    text-decoration: none;
+  }
+  .seven11 {
+    box-sizing: border-box;
+    padding-top: 150px;
+    padding-left: 130px;
+  }
+  .seven12 {
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 90px;
+  }
+  .nine {
+    background-color: white;
+    width: 100%;
+    height: 120%;
+  }
+  .nine1 {
+    font-size: 120px;
+    text-align: center;
+    color: rgba(10, 124, 10, 0.609);
+    box-sizing: border-box;
+    padding-top: 50px;
+  }
+  .nine2 {
+    display: block;
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+  .nine22 {
+    background-color: #2e3329;
+    width: 800px;
+    height: 900px;
+    color: #c19431;
+    box-sizing: border-box;
+    padding: 60px;
+  }
+  .ten {
+    background-color: #f2f6f1;
+    width: 100%;
+    height: 50%;
+    margin-top: 200px;
+  }
+  .learn {
+    width: 380px;
+    height: 110px;
+    font-size: 42px;
+    background-color: #f2f6f1;
+    box-sizing: border-box;
+    margin-top: 60px;
+  }
+}
